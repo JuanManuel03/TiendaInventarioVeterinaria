@@ -1,0 +1,20 @@
+C:\Users\juanj\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\juanj\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\juanj\source\repos\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.Form1.resources
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\juanj\source\repos\Tienda\Tienda\obj\Debug\Tienda.pdb
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\bin\Debug\Tienda.exe.config
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\bin\Debug\Tienda.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\bin\Debug\Tienda.pdb
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.Form1.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.Properties.Resources.resources
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.csproj.GenerateResource.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.exe
+D:\DATA DISCO KINGSTON\DATA DISCO SSD\Users\juanj\source\repos\Tienda Comida Animales\Tienda\Tienda\obj\Debug\Tienda.pdb
